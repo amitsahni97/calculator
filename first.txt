@@ -1,1 +1,2 @@
 Hi everyone, this is my calculator app!
+Today's date is 26/3/23
